@@ -1,0 +1,8 @@
+Car Tesla 4 true SUV Automatic 2020 418
+Car BMW 4 false Coupe Automatic 2017 150
+Car Fiat 4 false SUV manual 2018 120
+Car Volvo 6 false Truck manual 2015 650
+Car null 0 false null null 0 0
+Bike Kross 2 false mountain 3x10 2018
+Bike Kross 2 false road 3x6 2019
+Bike Trek 2 true Mountain 2x6 2020
